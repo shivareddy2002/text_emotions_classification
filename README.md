@@ -1,3 +1,7 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=🧠%20Text%20Emotion%20Classification&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 # 🧠 Text Emotion Classification
 
 ## 📌 Project Overview  
@@ -149,6 +153,8 @@ flowchart LR
 - 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
 - 💡 Interests: Python | Machine Learning | Deep Learning | NLP  
 - 📧 Email: lomadasivagangireddy3@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-redy-a64197280/)  
-- 🌐 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)  
-- 🐙 [GitHub](https://github.com/shivareddy2002)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-redy-a64197280/)  🌐 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)  🐙 [GitHub](https://github.com/shivareddy2002)
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
