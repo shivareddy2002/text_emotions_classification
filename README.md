@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=🧠%20Text%20Emotion%20Classification&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-# 🧠 Text Emotion Classification
 
 ## 📌 Project Overview  
 This project focuses on **classifying emotions in text** using deep learning and NLP techniques.  
