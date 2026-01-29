@@ -128,7 +128,7 @@ flowchart LR
     subgraph PR[🔮 Prediction]
         H["📝 User Input Text"]
         I["🔍 Tokenize & Pad"]
-        J["🎯 Predict Emotion"]
+        J["🎯 Predict Emotion"]]
     end
 
     %% --- Flow Connections ---
