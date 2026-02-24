@@ -105,35 +105,29 @@ It highlights the power of NLP in real-world applications such as customer servi
 
 ```mermaid
 flowchart LR
-    %% --- Data Preparation Stage ---
     subgraph DP[📂 Data Preparation]
-        A["📦 Import Libraries\n(Pandas, Keras, NumPy, Sklearn)"]
-        B["📚 Load Dataset\n(train.txt)"]
-        C["✂️ Preprocessing\n(Tokenization → Sequences → Padding)"]
+        A["📦 Import Libraries"]
+        B["📚 Load Dataset"]
+        C["✂️ Preprocessing"]
     end
 
-    %% --- Label Processing Stage ---
     subgraph LP[🏷️ Label Encoding]
-        D["🔢 Encode Emotions\n(LabelEncoder)"]
+        D["🔢 Encode Emotions"]
         E["📊 One-Hot Encoding"]
     end
 
-    %% --- Modeling & Training Stage ---
     subgraph MT[🤖 Modeling & Training]
-        F["🏗️ Build Model\n(Embedding → Flatten → Dense → Softmax)"]
-        G["⚡ Train Model\n(Adam + Categorical Crossentropy)"]
+        F["🏗️ Build Model"]
+        G["⚡ Train Model"]
     end
 
-    %% --- Prediction Stage ---
     subgraph PR[🔮 Prediction]
-        H["📝 User Input Text"]
+        H["📝 User Input"]
         I["🔍 Tokenize & Pad"]
-        J["🎯 Predict Emotion"]]
+        J["🎯 Predict Emotion"]
     end
 
-    %% --- Flow Connections ---
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J
-
     %% --- Styles ---
     style A fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000;
     style B fill:#4FC3F7,stroke:#0277BD,stroke-width:2px,color:#fff;
